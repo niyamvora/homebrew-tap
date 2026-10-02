@@ -1,6 +1,6 @@
 cask "ilovenotch" do
-  version "1.2.0"
-  sha256 "7042bd3afc91f395ea9d9aec1f1bd0e373c0ba0dc998ba0fc30628091df55f90"
+  version "1.3.0"
+  sha256 "d92209ed102efdddbab54abeeb83734df066a359c1dc3e578c0ea5b2ce0b7945"
 
   url "https://github.com/niyamvora/ILoveNotch/releases/download/v#{version}/ILoveNotch-#{version}.dmg"
   name "ILoveNotch"
